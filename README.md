@@ -40,3 +40,6 @@ Aplikasi **Galang Dana Donasi** adalah aplikasi Android yang dirancang untuk mem
 
 ```
 
+# Story Board
+![Untitled](https://github.com/user-attachments/assets/9547d1a2-28d7-4801-8ef3-5fce0e18a17c)
+
