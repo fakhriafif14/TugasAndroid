@@ -38,8 +38,8 @@ Aplikasi **Galang Dana Donasi** adalah aplikasi Android yang dirancang untuk mem
 3. Tunggu hingga Gradle selesai sinkronisasi.
 4. Jalankan aplikasi di emulator atau perangkat Android fisik.
 
-```
 
 # Story Board
-![Untitled](https://github.com/user-attachments/assets/9547d1a2-28d7-4801-8ef3-5fce0e18a17c)
+![Untitled](https://github.com/user-attachments/assets/4a78300f-7fe9-4e9e-89e2-ceffaecc6f3d)
+
 
