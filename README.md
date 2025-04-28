@@ -21,9 +21,7 @@
 - 🔹 **Halaman Riwayat Donasi**
   - Menampilkan daftar donasi yang pernah dilakukan pengguna.
 
-- 🔹 **Detail Kampanye**
-  - Menampilkan informasi lengkap tentang kampanye, seperti deskripsi, target dana, dan progress donasi.
-
+- 🔹 **Halaman Donasi Tanaman**
 - 🔹 **Halaman Hapus Riwayat**
   - Memungkinkan pengguna untuk menghapus riwayat donasi mereka.
 
